@@ -21,7 +21,7 @@ Create a task using a URL: Yes
 | Private mode                      | Yes           | No           |
 | Create via URL                    | Yes           | No           |
 | Archive tasks                     | Yes           | No           |
-| Favorite/Pin tasks                | Yes           | No           |
+| Favorite/Pin tasks                | Yes           | Yes (Starred)           |
 | Cross-device sync                 | Planned       | Yes          |
 | Mobile app                        | Planned       | Yes          |
 | Task search                       | Yes           | No           |
