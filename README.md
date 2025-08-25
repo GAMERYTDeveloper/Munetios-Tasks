@@ -20,10 +20,11 @@ Create a task using a URL: Yes
 | Share tasks                       | Yes           | No           |
 | Private mode                      | Yes           | No           |
 | Create via URL                    | Yes           | No           |
-| Archive tasks                     | Yes           | Yes          |
+| Archive tasks                     | Yes           | No           |
 | Favorite/Pin tasks                | Yes           | No           |
 | Cross-device sync                 | Planned       | Yes          |
 | Mobile app                        | Planned       | Yes          |
 | Task search                       | Yes           | No           |
 | Custom task links                  | Yes           | No           |
 
+---
