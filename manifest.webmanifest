@@ -1,0 +1,17 @@
+{
+  "name": "GAMERYT Tasks",
+  "short_name": "Tasks",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#4c1d95",
+  "description": "Advanced task management app by GAMERYTDeveloper",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
