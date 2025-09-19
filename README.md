@@ -26,5 +26,7 @@ Create a task using a URL: Yes
 | Mobile app                        | Planned       | Yes          |
 | Task search                       | Yes           | No           |
 | Custom task links                  | Yes           | No           |
+| Offine mode                 | Yes           | No           |
+
 
 ---
