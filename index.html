@@ -184,6 +184,13 @@ if ('serviceWorker' in navigator) {
             align-items: center;
             transition: background 0.2s;
         }
+.taskTitle {
+  white-space: nowrap;        /* no wrapping */
+  overflow: hidden;           /* hide overflow */
+  text-overflow: ellipsis;    /* add "..." */
+  max-width: 100%;            /* responsive */
+  display: block;
+}
 
         .modal-content {
             background: #fff;       
