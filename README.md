@@ -1,10 +1,10 @@
-# GAMERYT-Tasks
+# Munetios-Tasks
 
 Our Task app lets you use categories, share, archive, favorite, and more.  
 It’s built to be fast, private, and secure — giving you more control over your tasks.  
-Do more with **GAMERYT Tasks**:
+Do more with **Munetios Tasks**:
 
-GAMERYT Tasks:  
+Munetios Tasks:  
 Categories: Yes  
 Share: Yes  
 Use privately: Yes  
@@ -12,9 +12,9 @@ Create a task using a URL: Yes
 
 ---
 
-## GAMERYT Tasks vs Google Tasks
+## Munetios Tasks vs Google Tasks
 
-| Feature                           | GAMERYT Tasks | Google Tasks |
+| Feature                           | Munetios Tasks | Google Tasks |
 |-----------------------------------|---------------|--------------|
 | Categories                        | Yes           | No           |
 | Share tasks                       | Yes           | No           |
